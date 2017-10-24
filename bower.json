@@ -3,12 +3,15 @@
   "description": "",
   "main": "",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/q4hmad/recipes-angular",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
+  ],
+  "authors": [
+    "Karla <kmb2662@gmail.com>"
   ]
 }
